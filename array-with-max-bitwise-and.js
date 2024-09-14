@@ -36,7 +36,11 @@ Constraints:
 1 <= nums[i] <= 106
 */
 
-function longestSubarrayWithMaxBitwiseAnd(nums) {
+/**
+ * @param {number[]} nums
+ * @return {number}
+ */
+var longestSubarray = function(nums) {
     // Step 1: Find the maximum value in the array
     const maxVal = Math.max(...nums);
 
@@ -58,10 +62,11 @@ function longestSubarrayWithMaxBitwiseAnd(nums) {
 
 // Example usage
 const nums1 = [1, 2, 3, 3, 2, 2];
-console.log(longestSubarrayWithMaxBitwiseAnd(nums1)); // Output: 2
+console.log(longestSubarray(nums1)); // Output: 2
 
 const nums2 = [1, 2, 3, 4];
-console.log(longestSubarrayWithMaxBitwiseAnd(nums2)); // Output: 1
+console.log(longestSubarray(nums2)); // Output: 1
+       
 
 /*
 Finding the Maximum Value: We use Math.max(...nums) to get the maximum value from the array nums.
