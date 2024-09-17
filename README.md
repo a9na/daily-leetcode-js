@@ -35,6 +35,7 @@ node linked-list-in-binary-tree.js
 
 ## ⚡ Fun Facts
 Did you know? LeetCode has over 2,000 problems to challenge your skills!
+<br>
 JavaScript was created in just 10 days by Brendan Eich in 1995.
 
 ### Happy coding! 🌐💻
