@@ -5,10 +5,9 @@ tackling new challenges daily. Join me on this coding adventure and sharpen your
 
 ## 🎯 What’s Inside?
 
-- **Daily Challenges:** Each day brings a new problem. Solve it and see how you stack up against the coding world!
+- **Daily Challenges:** Each day brings a new problem. 
 - **Solution Code:** Clean and efficient JavaScript solutions for each problem.
 - **Problem Descriptions:** Clear explanations and problem statements to help you understand the challenges better.
-- **Interactive Examples:** Test your code right from this README!
 
 ## 🛠️ Getting Started
 
