@@ -1,4 +1,4 @@
-# Daily LeetCode JavaScript 🌟
+# Daily LeetCode Challenges with JavaScript 🌟
 
 Welcome to the **Daily LeetCode JavaScript** repository! 🚀 Here, you'll find a collection of LeetCode problems solved in JavaScript, 
 tackling new challenges daily. Join me on this coding adventure and sharpen your skills!
